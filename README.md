@@ -1,5 +1,5 @@
-[Website](https://alyeska.dev)
-email: caleb@alyeska.dev
-Instagram: caleb_for
-linkedin: in/calebforestal
-X: calebforestal
+Website: [alyeska.dev](https://alyeska.dev)
+Email: [caleb@alyeska.dev](mailto:caleb@alyeska.dev)
+Instagram: [caleb_for](https://instagram.com/caleb_for)
+linkedin: [calebforestal](https://linkedin.com/in/calebforestal)
+X: [calebforestal](https://x.com/calebforestal)
